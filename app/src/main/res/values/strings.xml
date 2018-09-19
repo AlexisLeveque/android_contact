@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="no_notes">Sorry, no contacts</string>
+    <string name="menu_insert">Insert new contact</string>
+    <string name="menu_delete">Delete contact</string>
+
+    <string name="label_name">Name</string>
+    <string name="label_address">Address</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mobile">Phone Number</string>
+    <string name="mail">Email Address</string>
+    <string name="Address">Address</string>
+    <string name="save">Save</string>
+
+    <string name="color">Change color</string>
+
+    <string name="send">send</string>
+    <string name="call">call</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+
+    <string name="type_message">Type a message&#8230;</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:title="@string/send"
+        android:id="@+id/send_message"
+        android:icon="@drawable/ic_send_black"
+        />
+    <item
+        android:title="@string/call"
+        android:id="@+id/call"
+        android:icon="@drawable/ic_call_black"/>
+    <item
+        android:title="@string/edit"
+        android:id="@+id/edit"
+        android:icon="@drawable/ic_mode_edit_black"/>
+    <item
+        android:title="@string/delete"
+        android:id="@+id/delete"
+        android:icon="@drawable/ic_delete_black"/>
+</menu>
+
